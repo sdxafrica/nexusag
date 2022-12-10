@@ -1,0 +1,4 @@
+[submodule "addons/admin"]
+	path = addons/admin
+	url = git@github.com:sdxafrica/admin-addons.git
+	branch = 16.0
